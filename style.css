@@ -5,4 +5,15 @@
 }
 .dropdown:hover .menu {display: block}
 
+#list, #list2 {
+  list-style-type: none;
+}
+a {
+  color: black;
+}
+
+.ui.three.column.container {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
 
