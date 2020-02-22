@@ -14,7 +14,7 @@ a {
   color: black;
 }
 
-.container {
-  padding-top: 10px;
-  padding-bottom: 10px;
+.ui.three.column.grid.container {
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
