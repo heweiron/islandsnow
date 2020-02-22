@@ -6,3 +6,15 @@
 .dropdown:hover .menu {display: block}
 
 
+.ui.column {
+  list-style-type: none;
+}
+
+a {
+  color: black;
+}
+
+.container {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
